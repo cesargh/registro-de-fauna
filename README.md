@@ -92,7 +92,7 @@ Licencia BSD Zero Clause (0BSD) detallada en <code>LICENSE.txt</code> en la raí
 ## Documentos Complementarios
 ---
 * Clonar un repositorio de GitHub : https://docs.github.com/es/repositories/creating-and-managing-repositories/cloning-a-repository
-* Scripts SQL de base de datos :  https://github.com/cesargh/registro-de-fauna/sql
+* Scripts SQL de base de datos :  https://github.com/cesargh/registro-de-fauna/tree/master/sql
 * Sito Web Oficial de PostgreSQL : https://www.postgresql.org
 
 <div align="right">&#8593; <a href="#readme-indice">Índice</a> &#8593; <a href="#readme-inicio">Inicio</a> &#8593;</div>
