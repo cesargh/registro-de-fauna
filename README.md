@@ -8,7 +8,7 @@
 ![postgresql](https://img.shields.io/badge/PostgreSQL-16.4.2-red)
 ![intellij](https://img.shields.io/badge/IntelliJ-CE%202024.2.2-red)
 ![license](https://img.shields.io/badge/License-0BSD-brightgreen)
-![update](https://img.shields.io/badge/Update-19%2FOct%2F2024-blue)
+![update](https://img.shields.io/badge/Update-29%2FOct%2F2024-blue)
 ![version](https://img.shields.io/badge/Version-1.0.1-blue)
 ![stage](https://img.shields.io/badge/Stage-Release-blue)
 
