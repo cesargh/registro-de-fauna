@@ -10,6 +10,6 @@ public interface AnimalRepository extends JpaRepository<Animal, Long> {
 
     // JPA Derived Queries (JPA Consultas Derivadas)
     Optional<Animal> findByNombreIgnoreCase(String valor);
-    Optional<List<Animal>> findByExtincion(boolean valor);
+    List<Animal> findByExtincion(boolean valor);
 
 }

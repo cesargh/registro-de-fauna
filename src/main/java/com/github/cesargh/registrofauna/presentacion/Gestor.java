@@ -325,8 +325,8 @@ public class Gestor {
         presentador.Imprimir("Procesando...");
         try {
             var resultado = animalRepository.findByExtincion(true);
-            if(resultado.isPresent() && !resultado.get().isEmpty()) {
-                for (Animal e : resultado.get()) {
+            if(!resultado.isEmpty()) {
+                for (Animal e : resultado) {
                     presentador.ImprimirInforme(e.toString());
                 }
                 presentador.Imprimir("Fin del informe.");
